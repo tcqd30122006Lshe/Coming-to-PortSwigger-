@@ -1,2 +1,15 @@
 # Coming-to-PortSwigger-
-Just simply write down learning process.
+
+Ghi chép và tổng hợp toàn bộ kiến thức, kỹ thuật khai thác và bài lab thực hành từ **PortSwigger Web Security Academy**.
+
+---
+
+## 📚 Danh mục chủ đề (Topics)
+
+| Chủ đề | Tài liệu chi tiết | Trạng thái |
+| :--- | :--- | :---: |
+| **SQL Injection (SQLi)** | [SQLi/SQLi.md](./SQLi/SQLi.md) | ✅ Hoàn thành |
+| **Cross-Site Scripting (XSS)** | [XSS/XSS.md](./XSS/XSS.md) | ✅ Hoàn thành |
+
+---
+*Ghi chép phục vụ học tập và nghiên cứu an toàn thông tin.*
