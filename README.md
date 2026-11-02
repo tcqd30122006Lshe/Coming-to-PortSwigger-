@@ -13,6 +13,7 @@ Ghi chép và tổng hợp toàn bộ kiến thức, kỹ thuật khai thác và
 | **Access Control (Kiểm soát truy cập)** | [Access-Control/Access-Control.md](./Access-Control/Access-Control.md) | ✅ Hoàn thành |
 | **Cross-Site Request Forgery (CSRF)** | [CSRF/CSRF.md](./CSRF/CSRF.md) | ✅ Hoàn thành |
 | **Server-Side Request Forgery (SSRF)** | [SSRF/SSRF.md](./SSRF/SSRF.md) | ✅ Hoàn thành |
+| **File Upload (Lỗ hổng tải lên tệp tin)** | [File-Upload/File-Upload.md](./File-Upload/File-Upload.md) | ✅ Hoàn thành |
 
 ---
 *Ghi chép phục vụ học tập và nghiên cứu an toàn thông tin.*
